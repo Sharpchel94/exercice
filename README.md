@@ -82,9 +82,7 @@ __Tutoriel sur les formulaires du w3c__
 
 Réponse : 
 
-----
-----
-----
+- Oui.
 
 __L’affaire Savtchenko__ 
 [Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko.pdf)  
@@ -92,9 +90,7 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-----
-----
-----
+- Non car on peut qu'avoir un seul h1 pour notre page.
 
 
 #### 3.2 S'exercer à bien structurer
