@@ -31,24 +31,24 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
------
------
------
+
+-On pourrait ajouter la description des chaussures aux texte alternatifs pour le rendre plus a11y. 
+
 [capture-écran]()
 - https://amzn.to/2NnbKPN 
------
------
------
+
+-On pourrait ajouter tout les styles,composants inclus etc.. Pour permettre à l'utilisateur de cocher. 
+
 [capture-écran]()
 - https://www.lesoleil.com/  
------
------
------
+
+-On pourrait afficher ajouter un alt à la météo, la date du jour et aussi au options navigable possible (Actualité, les choix de la rédaction, etc..
+)
 [capture-écran]()
 - https://www.rad.ca/  
------
------
------
+
+-Je trouve le site de radio canada bien balisé et accesible à tous.
+
 [capture-écran]()
 
 Astuce  
